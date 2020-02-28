@@ -1,0 +1,3 @@
+iloc vs loc [Subsetting columns]
+iloc- allows integers to be used.
+loc- allows columns's name

@@ -29,11 +29,11 @@ print(df.head())
 
 print(df.shape)
 
-# print(df.columns)
+print(df.columns)
 
-# print(df.dtypes)
+print(df.dtypes)
 
-# print(df.info())
+print(df.info())
 
 country_df = df['country']
 

@@ -25,15 +25,15 @@ print(country_df.head)
 
 print(df.head(n=15))
 
-print(df.head())
+# print(df.head())
 
-print(df.shape)
+# print(df.shape)
 
-print(df.columns)
+# print(df.columns)
 
-print(df.dtypes)
+# print(df.dtypes)
 
-print(df.info())
+# print(df.info())
 
 country_df = df['country']
 

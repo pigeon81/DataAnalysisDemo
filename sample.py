@@ -19,11 +19,11 @@ print(df.dtypes)
 
 print(df.info())
 
-country_df = df['country']
+# country_df = df['country']
 
-print(country_df.head)
+# print(country_df.head)
 
-print(df.head(n=15))
+# print(df.head(n=15))
 
 # print(df.head())
 
